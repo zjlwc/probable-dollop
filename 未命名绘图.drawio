@@ -11,31 +11,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3s0f6Iqx2QGQnJLX9i-5-3" value="MSPM0G3507单片机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="390" width="140" height="90" as="geometry" />
+          <mxGeometry x="390" y="350" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3s0f6Iqx2QGQnJLX9i-5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3s0f6Iqx2QGQnJLX9i-5-4" target="3s0f6Iqx2QGQnJLX9i-5-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3s0f6Iqx2QGQnJLX9i-5-4" value="电源核心板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="585" width="110" height="65" as="geometry" />
+          <mxGeometry x="130" y="510" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="3s0f6Iqx2QGQnJLX9i-5-5" value="驱动马达" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="820" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3s0f6Iqx2QGQnJLX9i-5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3s0f6Iqx2QGQnJLX9i-5-6" target="3s0f6Iqx2QGQnJLX9i-5-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="130" y="630" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3s0f6Iqx2QGQnJLX9i-5-6" value="灰度传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="405" width="110" height="60" as="geometry" />
+          <mxGeometry x="180" y="405" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3s0f6Iqx2QGQnJLX9i-5-7" value="串口屏幕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="820" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3s0f6Iqx2QGQnJLX9i-5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3s0f6Iqx2QGQnJLX9i-5-12" target="3s0f6Iqx2QGQnJLX9i-5-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="400" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3s0f6Iqx2QGQnJLX9i-5-12" value="MPU6050陀螺仪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="320" width="110" height="60" as="geometry" />
+          <mxGeometry x="180" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3s0f6Iqx2QGQnJLX9i-5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3s0f6Iqx2QGQnJLX9i-5-12" target="3s0f6Iqx2QGQnJLX9i-5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3s0f6Iqx2QGQnJLX9i-5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3s0f6Iqx2QGQnJLX9i-5-6" target="3s0f6Iqx2QGQnJLX9i-5-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
