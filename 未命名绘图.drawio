@@ -133,6 +133,12 @@
             <mxPoint x="620" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="k3-bXjOq8f8ryYDNBNRG-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="PA9(TX)" vertex="1">
+          <mxGeometry height="40" width="80" x="570" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="k3-bXjOq8f8ryYDNBNRG-5" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:9.0pt;mso-bidi-font-size:&#xa;11.0pt;line-height:115%;font-family:Consolas;mso-fareast-font-family:宋体;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;PA10(RX)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="565" y="385" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
