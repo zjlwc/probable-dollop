@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="第 1 页" id="MK1AzlP2dV38DHEt-2YU">
-    <mxGraphModel dx="828" dy="916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="1213" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,78 @@
         </mxCell>
         <mxCell id="A3sHzi8xSFoSrPKQ4LGo-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="用户密码&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="41" width="66" x="390" y="398" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Me4MME3dT5_ZYX6nWt5v" name="第 2 页">
+    <mxGraphModel dx="1806" dy="812" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-3" edge="1" parent="1" source="wvL3lrxkt5pkm8gSSusT-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="wvL3lrxkt5pkm8gSSusT-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:9.0pt;mso-bidi-font-size:&amp;lt;br/&amp;gt;11.0pt;line-height:115%;font-family:Consolas;mso-fareast-font-family:宋体;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;administrator_mode()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="83" width="176" x="97" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-5" edge="1" parent="1" source="wvL3lrxkt5pkm8gSSusT-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="wvL3lrxkt5pkm8gSSusT-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-7" edge="1" parent="1" source="wvL3lrxkt5pkm8gSSusT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="wvL3lrxkt5pkm8gSSusT-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="295" />
+              <mxPoint x="368" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-9" edge="1" parent="1" source="wvL3lrxkt5pkm8gSSusT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="wvL3lrxkt5pkm8gSSusT-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="295" />
+              <mxPoint x="2" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;font-size:9.0pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:&amp;lt;br/&amp;gt;Consolas;mso-hansi-font-family:Consolas;mso-fareast-language:ZH-CN&quot;&gt;显示管理员菜单&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt;KEY1 &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;密码设置&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt;KEY2 &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;指纹设置&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt;KEY3 &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;刷卡设置&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt;K_Esc/K_Del &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: 宋体;&quot;&gt;退出&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="166" x="102" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-17" edge="1" parent="1" source="wvL3lrxkt5pkm8gSSusT-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="wvL3lrxkt5pkm8gSSusT-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="指纹管理" vertex="1">
+          <mxGeometry height="60" width="120" x="125" y="329.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-19" edge="1" parent="1" source="wvL3lrxkt5pkm8gSSusT-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="wvL3lrxkt5pkm8gSSusT-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="刷卡管理" vertex="1">
+          <mxGeometry height="60" width="120" x="308" y="329.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-15" edge="1" parent="1" source="wvL3lrxkt5pkm8gSSusT-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="wvL3lrxkt5pkm8gSSusT-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="密码管理" vertex="1">
+          <mxGeometry height="60" width="120" x="-58" y="329.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="key1" vertex="1">
+          <mxGeometry height="26" width="43" x="-58" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="key2" vertex="1">
+          <mxGeometry height="26" width="43" x="195" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="key3" vertex="1">
+          <mxGeometry height="26" width="43" x="377" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="修改密码&lt;div&gt;查看密码&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-58" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-16" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="添加指纹&lt;div&gt;删除指纹&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="125" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="wvL3lrxkt5pkm8gSSusT-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="增加卡号&lt;div&gt;删除卡号&lt;/div&gt;&lt;div&gt;删除刷卡库&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="308" y="438" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
