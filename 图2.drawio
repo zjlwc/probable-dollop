@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="3">
+<mxfile host="app.diagrams.net" pages="4">
   <diagram name="第 1 页" id="MK1AzlP2dV38DHEt-2YU">
     <mxGraphModel dx="683" dy="1213" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,6 +214,14 @@
         <mxCell id="2HP_pr0CyMCGI4pRi_I_-27" parent="1" style="whiteSpace=wrap;html=1;" value="显示失败&lt;div&gt;错误计数+1&lt;/div&gt;&lt;div&gt;满三次报警&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-89" y="690" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="T5pOmUXA73S8iXkdsWgv" name="第 4 页">
+    <mxGraphModel dx="683" dy="813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
