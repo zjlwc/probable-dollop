@@ -122,10 +122,98 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Fy-EhX4_ugXdLQdx_Z5K" name="第 3 页">
-    <mxGraphModel dx="685" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1083" dy="813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
+          <mxGeometry height="233" width="315" x="-265" y="558" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-3" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="user(0)" vertex="1">
+          <mxGeometry height="60" width="120" x="-167" y="73" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-5" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-7" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-107" y="298" />
+              <mxPoint x="73" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-11" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-107" y="298" />
+              <mxPoint x="-287" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="显示用户菜单&lt;div&gt;KEY1 密码解锁&lt;/div&gt;&lt;div&gt;KEY2 指纹解锁&lt;/div&gt;&lt;div&gt;KEY3 刷卡解锁&lt;/div&gt;&lt;div&gt;K_Esc/K_Del 返回&lt;/div&gt;" vertex="1">
+          <mxGeometry height="113" width="161" x="-188" y="163" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-15" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="指纹模式" vertex="1">
+          <mxGeometry height="60" width="120" x="-167" y="349" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-17" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="刷卡模式" vertex="1">
+          <mxGeometry height="60" width="120" x="13" y="349" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-13" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="密码模式" vertex="1">
+          <mxGeometry height="60" width="120" x="-347" y="349" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="输入密码" vertex="1">
+          <mxGeometry height="60" width="120" x="-347" y="456" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-19" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="按手指指纹比对" vertex="1">
+          <mxGeometry height="60" width="120" x="-167" y="456" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-16" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="刷IC卡卡号比对" vertex="1">
+          <mxGeometry height="60" width="120" x="13" y="456" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-22" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-24" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="比对结果" vertex="1">
+          <mxGeometry height="26" width="66" x="-143" y="574" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-26" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="成功" vertex="1">
+          <mxGeometry height="26" width="42" x="-205" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-28" edge="1" parent="1" source="2HP_pr0CyMCGI4pRi_I_-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2HP_pr0CyMCGI4pRi_I_-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="失败" vertex="1">
+          <mxGeometry height="26" width="42" x="-50" y="632.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-25" parent="1" style="whiteSpace=wrap;html=1;" value="解锁&lt;div&gt;蜂鸣器&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="64" x="-216" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="2HP_pr0CyMCGI4pRi_I_-27" parent="1" style="whiteSpace=wrap;html=1;" value="显示失败&lt;div&gt;错误计数+1&lt;/div&gt;&lt;div&gt;满三次报警&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-89" y="690" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
