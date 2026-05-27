@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="MK1AzlP2dV38DHEt-2YU">
-    <mxGraphModel>
+    <mxGraphModel dx="828" dy="916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-163" edge="1" parent="1" source="A3sHzi8xSFoSrPKQ4LGo-161" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="A3sHzi8xSFoSrPKQ4LGo-162" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-165" edge="1" parent="1" source="A3sHzi8xSFoSrPKQ4LGo-161" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="A3sHzi8xSFoSrPKQ4LGo-164" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;font-size:9.0pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:&amp;lt;br/&amp;gt;Consolas;mso-hansi-font-family:Consolas;mso-fareast-language:ZH-CN&quot;&gt;外设初始化&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;NVIC&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;优先级分组&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;延迟初始化&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;LCD&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;初始化&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt; + &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;清屏&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;USART3 (&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;指纹&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt;) &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;初始化&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;矩阵键盘初始化&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt;USART1 (&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;刷卡&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Consolas;&quot;&gt;) &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;初始化&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;门锁初始化&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt; (PA0)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;TIM2 (10ms&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;定时&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt;) &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;初始化&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;蜂鸣器初始化&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt; font-family: Consolas;&quot;&gt; (PA8)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9pt;&quot;&gt;启动提示音&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="247" width="239" x="168.5" y="-27" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-162" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="main()" vertex="1">
+          <mxGeometry height="60" width="120" x="228" y="-189" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-167" edge="1" parent="1" source="A3sHzi8xSFoSrPKQ4LGo-164" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="A3sHzi8xSFoSrPKQ4LGo-166" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-168" edge="1" parent="1" source="A3sHzi8xSFoSrPKQ4LGo-164" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="A3sHzi8xSFoSrPKQ4LGo-166" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-170" edge="1" parent="1" source="A3sHzi8xSFoSrPKQ4LGo-164" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="A3sHzi8xSFoSrPKQ4LGo-169" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-172" edge="1" parent="1" source="A3sHzi8xSFoSrPKQ4LGo-164" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="A3sHzi8xSFoSrPKQ4LGo-171" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-164" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="主循环while(1)" vertex="1">
+          <mxGeometry height="60" width="120" x="228" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-166" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="管理员模式" vertex="1">
+          <mxGeometry height="60" width="120" x="48.5" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-169" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="用户模式" vertex="1">
+          <mxGeometry height="60" width="120" x="407.5" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-171" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="胁迫报警模式" vertex="1">
+          <mxGeometry height="60" width="120" x="443" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-173" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="管理员密码" vertex="1">
+          <mxGeometry height="26" width="78" x="116" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="A3sHzi8xSFoSrPKQ4LGo-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="用户密码&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41" width="66" x="390" y="398" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
